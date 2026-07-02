@@ -34,11 +34,41 @@ Arguments par objection anticipée :
 | « Certificat, pas un bac » | Les offres visées demandent « DEC ou bac » ou « bac ou formation équivalente » — certificat universitaire + DEC + 10 ans d'expérience = formation équivalente, démontrée par les projets. |
 | « Pas d'expérience PLC » (voie B) | Exact, et je le dis d'emblée. Mais la moitié difficile du métier — comprendre les procédés, le terrain, les opérateurs — est déjà acquise. La syntaxe Ladder s'apprend vite avec une base C++/Python. |
 
-## 3. Formation — rien de neuf requis
+## 3. Formation — rien de neuf requis pour postuler
 
 - **Le certificat est obtenu.** Aucune formation supplémentaire n'est un prérequis pour les postes visés.
-- **Si la voie automatisation se concrétise** (entrevue Sogenix/Canimex) : autoformation ciblée **PLC/Ladder** en parallèle — simulateurs et documentation Allen-Bradley (RSLogix/Studio 5000) et Siemens (TIA Portal), pour arriver en entrevue capable de lire un programme Ladder et d'en parler intelligemment. Effort : quelques soirées, pas un cours formel.
 - Ne PAS retarder les candidatures pour « finir de se préparer » — le portfolio et l'expérience suffisent pour postuler aujourd'hui.
+
+### Priorité 1 — cours courts PLC (si la voie automatisation est active)
+
+La seule vraie case manquante du profil, et elle se comble sans retourner aux études (formations continues à la carte, vérifiées) :
+
+| Formation | Établissement | Lien |
+|---|---|---|
+| Automates programmables Allen-Bradley — **Débutant** | Cégep de Trois-Rivières (formation continue) | https://formation-mauricie.ca/courslacarte/automates-programmables-allen-bradley-debutant/ |
+| Automates programmables Allen-Bradley — **Intermédiaire** | Cégep de Trois-Rivières (formation continue) | https://formation-mauricie.ca/courslacarte/automates-programmables-allen-bradley-intermediaire/ |
+| Siemens TIA Portal (S7-1200/1500) | Collège de Maisonneuve (alternative : Cégep du Vieux Montréal) | https://fc.cmaisonneuve.qc.ca/formations/automatisation-industrielle/ |
+
+- Allen-Bradley d'abord : première marque citée par Sogenix, dominante en agroalimentaire nord-américain — et le cours se donne dans la zone cible (Trois-Rivières).
+- **Effet candidature** : la ligne « automates à apprendre » de la lettre Sogenix devient « formation Allen-Bradley en cours au Cégep de Trois-Rivières » — l'objection principale tombe.
+- Vérifier auprès de **Services Québec** si une subvention pour travailleurs en emploi s'applique.
+
+### Priorité 2 — autoformation immédiate et gratuite
+
+Simulateurs et versions d'évaluation en attendant (ou en parallèle) : LogixPro, Studio 5000/RSLogix (Allen-Bradley), TIA Portal (Siemens) — objectif : arriver en entrevue capable de lire un programme Ladder et d'en parler intelligemment. Effort : quelques soirées.
+
+### Plan C — AEC, seulement si la recherche piétine après 90 jours
+
+| Programme | Établissement | Lien |
+|---|---|---|
+| AEC Automatismes industriels (soir) | Collège Ahuntsic | https://www.collegeahuntsic.qc.ca/formation-continue/aec-et-dec-en-cours-du-soir/automatismes-industriels-soir/grille-de-cours |
+| Instrumentation, automatisation et robotique | Cégep de Victoriaville (~40 min de Drummondville) | https://www.cegepvicto.ca/programme/instrumentation-automatisation-et-robotique-iar/ |
+
+1 à 2 ans d'engagement — à considérer uniquement après avoir épuisé les candidatures, jamais avant.
+
+### À éviter
+
+Bootcamp, deuxième certificat ou certifications web côté développement : le portfolio (70 000+ lignes, 3 500+ tests, CI, Docker) démontre déjà plus qu'aucun cours. Ce temps vaut plus en candidatures et en entrevues qu'en classe.
 
 ## 4. Plan 30-60-90 jours
 
@@ -57,7 +87,7 @@ Arguments par objection anticipée :
 - [ ] Relancer chaque candidature sans réponse après 10-14 jours (courriel court, poli, avec le lien GitHub)
 - [ ] Élargir la zone : alertes Indeed/LinkedIn sur Trois-Rivières, Victoriaville, Sorel-Tracy
 - [ ] Préparer les entrevues : démo de SwingBot et TradingClaude prête à montrer (5 minutes, code + résultat)
-- [ ] Si voie B active : autoformation PLC/Ladder entamée (voir §3)
+- [ ] Si voie B active : autoformation PLC/Ladder entamée + **inscription au cours Allen-Bradley débutant, Cégep de Trois-Rivières** (voir §3)
 
 ### Jours 60-90 — ajuster le tir
 
