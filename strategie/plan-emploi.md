@@ -85,7 +85,7 @@ Bootcamp, deuxième certificat ou certifications web côté développement : le 
 ### Jours 30-60 — relancer et élargir
 
 - [ ] Relancer chaque candidature sans réponse après 10-14 jours (courriel court, poli, avec le lien GitHub)
-- [ ] Élargir la zone : alertes Indeed/LinkedIn sur Trois-Rivières, Victoriaville, Sorel-Tracy
+- [ ] Élargir la zone : alertes Indeed/LinkedIn sur Trois-Rivières, Victoriaville, Sorel-Tracy et **Sherbrooke** (offre Régulvar trouvée — voir suivi) ; alertes de veille C++ sur Québec (Thales, Evident/Wabtec) pour dans 1-2 ans
 - [ ] Préparer les entrevues : démo de SwingBot et TradingClaude prête à montrer (5 minutes, code + résultat)
 - [ ] Si voie B active : autoformation PLC/Ladder entamée + **inscription au cours Allen-Bradley débutant, Cégep de Trois-Rivières** (voir §3)
 

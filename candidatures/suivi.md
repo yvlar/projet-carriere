@@ -5,7 +5,7 @@
 
 ## Légende des statuts
 
-🔜 à faire · 📤 envoyée · 📞 relancée · 🎤 entrevue · ✅ offre · ❌ refus
+🔜 à faire · 📤 envoyée · 📞 relancée · 🎤 entrevue · ✅ offre · ❌ refus · 👁 veille (pas de candidature pour l'instant) · ➡️ déplacée vers une autre section
 
 ## Pistes chaudes (offres identifiées)
 
@@ -19,6 +19,14 @@
 | | Annexair (Saint-Germain-de-Grantham) | Programmeur PLC (DDC/HVAC) | Indeed : https://to.indeed.com/aaysxf6pkql6 | via l'offre Indeed | 🔜 | | À 10 min de Drummondville. Exige diplôme instrumentation/contrôles + 1 an en contrôles HVAC — écart réel. Spontanée à envoyer **après** le cours Allen-Bradley (Cégep de Trois-Rivières), pas avant. |
 | | ContiTech (interne) | Mutation interne TI | Interne — discret | à identifier (RH / gestionnaire TI) | 🔜 | | Plan B sans trou d'emploi. Sonder discrètement — ne pas ébruiter la recherche externe. |
 
+## Pistes hors région
+
+| Date | Entreprise | Poste | Canal | Contact | Statut | Relance prévue | Notes |
+|---|---|---|---|---|---|---|---|
+| | Régulvar (Sherbrooke) | Programmeur(euse) de systèmes CVC | Indeed : https://to.indeed.com/aah7pjhk88gw | via l'offre Indeed | 🔜 | | ~1 h de Drummondville. « Bac ou DEC en domaine pertinent OU **combinaison équivalente de formation et d'expérience** » ; expérience dans un poste similaire = **atout seulement**. Contrôleurs Delta Controls, BACnet/Modbus, mise en service chantier, 700+ employés, formation continue. Entreprise déjà dans ma liste de spontanées — **postuler sur cette offre plutôt qu'en spontanée**. Adapter la trame de la lettre Sogenix (10 ans de terrain + programmation, honnête sur l'immotique à apprendre). |
+| | Thales (Québec) | Développeur de systèmes embarqués | Indeed : https://to.indeed.com/aavkhh28ygyx | — | 👁 veille | | C/C++/Python, cybersécurité défense (~1 h 45). Exige un baccalauréat + habilitation OTAN ; le texte parle d'un rôle sénior. **Pas de candidature maintenant** — créer une alerte, revisiter après 1-2 ans d'expérience. |
+| | Evident/Wabtec (Québec) | Développeur logiciel — vision par ordinateur (C++) | Indeed : https://to.indeed.com/aa2fgy9fngzd | — | 👁 veille | | C++ Windows/Linux, tests automatisés, CI — le profil SwingBot. « 5+ ans » = atout seulement, mais diplôme universitaire en génie demandé. Télétravail possible. Créer une alerte. |
+
 ## Candidatures spontanées (marché caché)
 
 | Date | Entreprise | Poste | Canal | Contact | Statut | Relance prévue | Notes |
@@ -26,7 +34,7 @@
 | | Soucy | Développeur / automatisation (spontanée) | Site carrières | carriere.soucy-group.com | 🔜 | | Groupe manufacturier de la région — vérifier les postes TI/automatisation affichés avant la spontanée |
 | | Cascades | Développeur / automatisation (spontanée) | Site carrières | jobs.cascades.com | 🔜 | | Grand employeur régional — alertes emploi à activer sur le site |
 | | Synovatec | Automatisation (spontanée) | À identifier | à identifier | 🔜 | | Trouver le bon contact (site web / LinkedIn) avant l'envoi |
-| | Régulvar | Automatisation / contrôle (spontanée) | À identifier | à identifier | 🔜 | | Contrôle du bâtiment — vérifier présence régionale et contact |
+| | Régulvar | Automatisation / contrôle (spontanée) | — | — | ➡️ | | **Offre réelle trouvée à Sherbrooke — voir « Pistes hors région »** : postuler sur l'offre plutôt qu'en spontanée |
 | | SOPREMA | Développeur / automatisation (spontanée) | À identifier | à identifier | 🔜 | | Usine à Drummondville — trouver le contact RH local |
 
 ## Journal des réponses et entrevues
