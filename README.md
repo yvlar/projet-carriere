@@ -28,6 +28,7 @@
 - [ ] Profil Indeed mis à jour (copier-coller depuis [`cv/cv-indeed.md`](cv/cv-indeed.md))
 - [ ] Profil LinkedIn mis à jour (copier-coller depuis [`cv/profil-linkedin.md`](cv/profil-linkedin.md)) — Open to work **recruteurs seulement**
 - [ ] Candidature **Infinition** envoyée (lettre : [`candidatures/lettres/infinition.md`](candidatures/lettres/infinition.md))
+- [ ] Candidature **Sogesco** envoyée via Indeed (lettre : [`candidatures/lettres/sogesco.md`](candidatures/lettres/sogesco.md))
 - [ ] Candidature **Sogenix** envoyée à rh@sogenix.com (lettre : [`candidatures/lettres/sogenix.md`](candidatures/lettres/sogenix.md))
 - [ ] **Canimex** contacté (recrutement@canimex.com · 819-477-1335)
 - [ ] Candidatures spontanées lancées (Soucy, Cascades, Synovatec, Régulvar, SOPREMA)
@@ -42,6 +43,7 @@
 | [`strategie/plan-emploi.md`](strategie/plan-emploi.md) | Marché local, positionnement, formation, plan 30-60-90 jours |
 | [`candidatures/suivi.md`](candidatures/suivi.md) | Tableau de suivi des candidatures (pré-rempli) |
 | [`candidatures/lettres/infinition.md`](candidatures/lettres/infinition.md) | Lettre de présentation — Infinition (Trois-Rivières) |
+| [`candidatures/lettres/sogesco.md`](candidatures/lettres/sogesco.md) | Lettre de présentation — Transport scolaire Sogesco (Drummondville) |
 | [`candidatures/lettres/sogenix.md`](candidatures/lettres/sogenix.md) | Lettre de présentation — Sogenix (Drummondville) |
 
 ## Coordonnées
