@@ -28,9 +28,11 @@ Après 10 ans chez ContiTech — d'abord responsable de secteur, aujourd'hui for
 
 Ce que l'usine m'a appris : coordonner des équipes en horaire rotatif, tenir les standards de qualité, résoudre des problèmes sous pression, former et vulgariser, et faire le pont entre le plancher et l'ingénierie. Ce que le logiciel m'a permis de livrer :
 
-▸ SwingBot — bot de trading algorithmique C++17 (stratégie EMA/RSI, backtester, intégrations Interactive Brokers/Alpaca, SQLite, dashboard WebSocket, tests GoogleTest, CMake/vcpkg)
-▸ TradingClaude — plateforme d'analyse financière IA (FastAPI, PostgreSQL, Redis, Celery, React 18/TypeScript, RAG Qdrant, auth JWT, Docker Compose, CI GitHub Actions)
-▸ GRANDFORD — PWA Next.js/Supabase pour travailleurs d'usine en rotation 12 h (moteur d'horaire TypeScript pur testé, RLS multi-tenant, notifications push)
+▸ SwingBot — bot de trading algorithmique C++17, ~14 000 lignes : architecture par interfaces (injection de dépendances), 460 tests GoogleTest, backtester complet (Sharpe, drawdown, win rate) avec validation walk-forward et Monte-Carlo, intégrations Interactive Brokers/Alpaca, dashboard WebSocket, CI GitHub Actions
+▸ TradingClaude — plateforme d'analyse financière IA, ~44 500 lignes : FastAPI (74 endpoints), PostgreSQL, Redis/Celery, RAG Qdrant, React 18/TypeScript strict — ~2 250 tests pytest, 531 tests Vitest, e2e Playwright, CI à 6 jobs, Docker Compose (5 services)
+▸ GRANDFORD — PWA Next.js/Supabase, ~15 900 lignes de TypeScript strict : moteur d'horaire pur validé par golden tests, sécurité Postgres RLS (19 tables, 46 policies), ~340 tests Vitest dont ~130 d'isolation contre un vrai Postgres, Web Push, mode hors-ligne
+
+Au total : plus de 70 000 lignes de code et plus de 3 500 tests automatisés, publics et vérifiables.
 
 Mon objectif : automatiser, outiller et fiabiliser la production avec du logiciel, dans la région de Drummondville / Trois-Rivières.
 
@@ -83,19 +85,19 @@ Compétences transférables vers le logiciel : coordination, rigueur qualité, r
 ### SwingBot — bot de trading algorithmique
 *Lien : github.com/yvlar/swingtradebot*
 ```
-Bot de trading algorithmique C++17 : stratégie EMA/RSI, backtester CSV, intégrations Interactive Brokers/Alpaca, persistance SQLite, dashboard WebSocket, tests GoogleTest, build CMake/vcpkg.
+Bot de trading algorithmique C++17 (~14 000 lignes, 460 tests GoogleTest) : stratégie EMA/RSI avec filtre SMA200, architecture par interfaces avec injection de dépendances, backtester complet (Sharpe, Sortino, max drawdown, win rate), validation walk-forward et Monte-Carlo, intégrations Interactive Brokers/Alpaca, persistance SQLite, dashboard temps réel WebSocket (Boost.Beast), code multithread, build CMake/vcpkg, Docker, CI GitHub Actions.
 ```
 
 ### TradingClaude — plateforme d'analyse financière IA
 *Lien : github.com/yvlar/TRADINGCLAUDE*
 ```
-Plateforme d'analyse financière IA : FastAPI, PostgreSQL, Redis, Celery, React 18/TypeScript, RAG Qdrant, authentification JWT, Docker Compose, CI GitHub Actions.
+Plateforme d'analyse financière IA (~44 500 lignes) : FastAPI (74 endpoints REST), 16 modules d'analyse orchestrés en workflows, PostgreSQL (12 migrations Alembic), Redis, Celery, RAG vectoriel Qdrant, authentification JWT + protection CSRF + rate-limiting, React 18/TypeScript strict (15 pages), ~2 250 tests pytest, 531 tests Vitest, tests e2e Playwright, Docker Compose (5 services), CI GitHub Actions (6 jobs).
 ```
 
 ### GRANDFORD — PWA d'horaires pour travailleurs d'usine
 *Lien : github.com/yvlar/GRANDFORD*
 ```
-PWA Next.js/Supabase pour travailleurs d'usine en rotation 12 h : moteur d'horaire TypeScript pur testé, sécurité RLS multi-tenant, notifications push.
+PWA Next.js 15/React 19/Supabase (~15 900 lignes de TypeScript strict) pour travailleurs d'usine en rotation 12 h : moteur d'horaire TypeScript pur (cycle Pitman 2-2-3) validé par golden tests et tests de propriétés, sécurité multi-tenant Postgres RLS (19 tables, 46 policies), ~340 tests Vitest dont ~130 d'isolation RLS exécutés contre un vrai Postgres, 3 Edge Functions, notifications Web Push (VAPID), mode hors-ligne (Serwist).
 ```
 
 ### CoRoute — application de covoiturage

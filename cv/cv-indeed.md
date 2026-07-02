@@ -16,7 +16,11 @@ Développeur logiciel junior — C++ / Python / SQL · Certificat en informatiqu
 ```
 Développeur logiciel junior avec un profil rare : 10 ans d'expérience manufacturière chez ContiTech (formateur, responsable de secteur — production en horaire rotatif, coordination d'équipes, qualité, liaison plancher-ingénierie) et un certificat en informatique (génie logiciel) complété à l'Université Laval.
 
-Portfolio livré et public sur GitHub (github.com/yvlar) : un bot de trading algorithmique en C++17 avec tests automatisés, une plateforme d'analyse financière IA (Python/FastAPI, React/TypeScript, PostgreSQL, Docker), et une application web progressive d'horaires pour travailleurs d'usine en rotation 12 h.
+Portfolio livré et public sur GitHub (github.com/yvlar) — plus de 70 000 lignes de code et plus de 3 500 tests automatisés au total :
+
+• SwingBot — bot de trading algorithmique C++17 (~14 000 lignes) : architecture par interfaces avec injection de dépendances, 460 tests GoogleTest, backtester complet (Sharpe, drawdown, win rate), validation walk-forward et Monte-Carlo, CI GitHub Actions, Docker.
+• TradingClaude — plateforme d'analyse financière IA (~44 500 lignes) : FastAPI (74 endpoints REST), PostgreSQL, Redis/Celery, RAG vectoriel Qdrant, React 18/TypeScript strict ; ~2 250 tests pytest, 531 tests Vitest, tests e2e Playwright, CI à 6 jobs.
+• GRANDFORD — PWA Next.js/Supabase (~15 900 lignes de TypeScript strict) pour travailleurs d'usine en rotation 12 h : moteur d'horaire pur validé par golden tests, sécurité Postgres RLS (19 tables, 46 policies), ~340 tests Vitest dont ~130 d'isolation exécutés contre un vrai Postgres.
 
 Objectif : automatiser, outiller et fiabiliser la production avec du logiciel, dans la région de Drummondville ou Trois-Rivières. Je comprends autant le code que la réalité du plancher — les contraintes de production, les quarts rotatifs, la qualité et les gens qui font tourner l'usine.
 ```
@@ -93,9 +97,9 @@ Formation d'employés · Coordination d'équipes · Contrôle qualité · Résol
 
 | Projet | Lien | Description à coller |
 |---|---|---|
-| SwingBot | github.com/yvlar/swingtradebot | Bot de trading algorithmique C++17 : stratégie EMA/RSI, backtester CSV, intégrations Interactive Brokers/Alpaca, SQLite, dashboard WebSocket, tests GoogleTest, CMake/vcpkg |
-| TradingClaude | github.com/yvlar/TRADINGCLAUDE | Plateforme d'analyse financière IA : FastAPI, PostgreSQL, Redis, Celery, React 18/TypeScript, RAG Qdrant, auth JWT, Docker Compose, CI GitHub Actions |
-| GRANDFORD | github.com/yvlar/GRANDFORD | PWA Next.js/Supabase pour travailleurs d'usine en rotation 12 h : moteur d'horaire TypeScript pur testé, RLS multi-tenant, notifications push |
+| SwingBot | github.com/yvlar/swingtradebot | Bot de trading algorithmique C++17 (~14 000 lignes, 460 tests GoogleTest) : stratégie EMA/RSI avec filtre SMA200, backtester complet (Sharpe, Sortino, max drawdown, win rate), validation walk-forward/optimisation par grille/Monte-Carlo, intégrations Interactive Brokers et Alpaca via une interface broker commune, SQLite, dashboard temps réel WebSocket (Boost.Beast asynchrone), code multithread, CMake/vcpkg, Docker, CI GitHub Actions |
+| TradingClaude | github.com/yvlar/TRADINGCLAUDE | Plateforme d'analyse financière IA (~44 500 lignes) : FastAPI (74 endpoints REST), 16 modules d'analyse orchestrés en workflows, PostgreSQL (12 migrations Alembic), Redis, Celery, RAG vectoriel Qdrant, auth JWT + CSRF + rate-limiting, React 18/TypeScript strict (15 pages), ~2 250 tests pytest + 531 tests Vitest + tests e2e Playwright, Docker Compose (5 services), CI GitHub Actions (6 jobs) |
+| GRANDFORD | github.com/yvlar/GRANDFORD | PWA Next.js 15/React 19/Supabase (~15 900 lignes de TypeScript strict) pour travailleurs d'usine en rotation 12 h : moteur d'horaire TypeScript pur validé par golden tests, sécurité multi-tenant Postgres RLS (19 tables, 46 policies), ~340 tests Vitest dont ~130 d'isolation RLS contre un vrai Postgres, 3 Edge Functions, notifications Web Push (VAPID), mode hors-ligne (Serwist) |
 | CoRoute | github.com/yvlar/coroute-api | Application de covoiturage Java (projet de génie logiciel, Université Laval) |
 
 ## Section « Préférences d'emploi »

@@ -21,7 +21,7 @@
 
 ## Pitch 30 secondes
 
-> J'ai passé 10 ans chez ContiTech — d'abord comme responsable de secteur, aujourd'hui comme formateur — à coordonner des équipes de production, gérer la qualité et faire le pont entre le plancher et l'ingénierie. En parallèle, j'ai complété un certificat en informatique (génie logiciel) à l'Université Laval et livré trois projets logiciels complets : un bot de trading en C++, une plateforme d'analyse financière IA en Python/React, et une PWA d'horaires d'usine en TypeScript. Mon objectif : mettre ce double bagage au service d'une entreprise d'ici pour **automatiser, outiller et fiabiliser la production avec du logiciel**.
+> J'ai passé 10 ans chez ContiTech — d'abord comme responsable de secteur, aujourd'hui comme formateur — à coordonner des équipes de production, gérer la qualité et faire le pont entre le plancher et l'ingénierie. En parallèle, j'ai complété un certificat en informatique (génie logiciel) à l'Université Laval et livré trois projets logiciels complets : un bot de trading en C++, une plateforme d'analyse financière IA en Python/React, et une PWA d'horaires d'usine en TypeScript — au total plus de 70 000 lignes de code et 3 500 tests automatisés, publics sur GitHub. Mon objectif : mettre ce double bagage au service d'une entreprise d'ici pour **automatiser, outiller et fiabiliser la production avec du logiciel**.
 
 ## Checklist de statut
 
