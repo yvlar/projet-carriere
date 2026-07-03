@@ -68,7 +68,19 @@ Simulateurs et versions d'évaluation en attendant (ou en parallèle) : LogixPro
 
 ### À éviter
 
-Bootcamp, deuxième certificat ou certifications web côté développement : le portfolio (70 000+ lignes, 3 500+ tests, CI, Docker) démontre déjà plus qu'aucun cours. Ce temps vaut plus en candidatures et en entrevues qu'en classe.
+Bootcamp, deuxième certificat ou certifications web côté développement : le portfolio (70 000+ lignes, 3 500+ tests, CI, Docker) démontre déjà plus qu'aucun cours. Ce temps vaut plus en candidatures et en entrevues qu'en classe. Même logique pour les **certifications SAP payantes** — voir l'avenue ERP ci-dessous.
+
+## 3b. Avenue ERP/SAP — moyen terme (3-5 ans)
+
+**Fait acquis** : j'utilise SAP quotidiennement chez ContiTech (transactions de production) — c'est maintenant dans le CV, et c'est plus crédible qu'une certification aux yeux d'un employeur régional.
+
+**Lecture du marché (vérifiée juillet 2026)** :
+- **Canimex (Drummondville) roule sur SAP** — offre « Agent du transport, logistique et soutien SAP » observée (https://to.indeed.com/aalsjpjz7z2k). À mentionner dans ma candidature Canimex : usage quotidien de SAP = atout direct.
+- Le marché SAP « développeur/consultant » est concentré à Montréal et **entièrement sénior** (Accenture, Infosys, Sopra Steria, analyste principal Agropur…) — aucun poste junior observé. Une certification payante maintenant n'ouvrirait aucune porte.
+
+**Chemin réaliste** : entrer comme développeur/programmeur dans un manufacturier qui roule SAP (Canimex en tête) → devenir naturellement le pont plancher-ERP (ma spécialité) → viser analyste fonctionnel SAP (modules production/matières) à 3-5 ans, où le vécu d'usine vaut de l'or.
+
+**Formation** : rien de payant. En option, les parcours gratuits officiels (learning.sap.com, MOOC openSAP) pour pouvoir écrire « autoformation SAP en cours » — seulement APRÈS le cours Allen-Bradley, qui reste la priorité d'investissement.
 
 ## 4. Plan 30-60-90 jours
 

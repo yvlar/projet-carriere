@@ -14,7 +14,7 @@ Développeur logiciel junior — C++ / Python / SQL · Certificat en informatiqu
 ## Champ « Résumé »
 
 ```
-Développeur logiciel junior avec un profil rare : 10 ans d'expérience manufacturière chez ContiTech (formateur, responsable de secteur — production en horaire rotatif, coordination d'équipes, qualité, liaison plancher-ingénierie) et un certificat en informatique (génie logiciel) complété à l'Université Laval.
+Développeur logiciel junior avec un profil rare : 10 ans d'expérience manufacturière chez ContiTech (formateur, responsable de secteur — production en horaire rotatif, coordination d'équipes, qualité, liaison plancher-ingénierie), utilisateur quotidien de SAP en usine, et un certificat en informatique (génie logiciel) complété à l'Université Laval.
 
 Portfolio livré et public sur GitHub (github.com/yvlar) — plus de 70 000 lignes de code et plus de 3 500 tests automatisés au total :
 
@@ -42,6 +42,7 @@ Objectif : automatiser, outiller et fiabiliser la production avec du logiciel, d
 - Formation des employés de production : conception et animation de formations techniques, vulgarisation de procédés complexes pour des publics variés
 - Communication écrite et orale au quotidien : documentation de formation, suivi des acquis, rétroaction structurée
 - Point de contact entre les nouvelles recrues, la production et les exigences qualité
+- Utilisation quotidienne de SAP (ERP) en contexte manufacturier : transactions de production au fil du travail
 ```
 
 ### Poste 2
@@ -90,7 +91,7 @@ C++ · Python · TypeScript · Java · SQL · React · FastAPI · Git · Docker 
 Compétences transférables (à ajouter si le formulaire le permet) :
 
 ```
-Formation d'employés · Coordination d'équipes · Contrôle qualité · Résolution de problèmes · Production manufacturière
+SAP (utilisateur, contexte manufacturier) · Formation d'employés · Coordination d'équipes · Contrôle qualité · Résolution de problèmes · Production manufacturière
 ```
 
 ## Section « Liens » (portfolio GitHub)

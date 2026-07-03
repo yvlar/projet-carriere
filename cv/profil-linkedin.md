@@ -26,7 +26,7 @@ Le développeur qui connaît le plancher d'usine.
 
 Après 10 ans chez ContiTech — d'abord responsable de secteur, aujourd'hui formateur — je fais le saut vers le développement logiciel, avec en main un certificat en informatique (génie logiciel) de l'Université Laval et un portfolio de projets complets et publics.
 
-Ce que l'usine m'a appris : coordonner des équipes en horaire rotatif, tenir les standards de qualité, résoudre des problèmes sous pression, former et vulgariser, et faire le pont entre le plancher et l'ingénierie. Ce que le logiciel m'a permis de livrer :
+Ce que l'usine m'a appris : coordonner des équipes en horaire rotatif, tenir les standards de qualité, résoudre des problèmes sous pression, former et vulgariser, faire le pont entre le plancher et l'ingénierie — et travailler quotidiennement dans SAP (transactions de production). Ce que le logiciel m'a permis de livrer :
 
 ▸ SwingBot — bot de trading algorithmique C++17, ~14 000 lignes : architecture par interfaces (injection de dépendances), 460 tests GoogleTest, backtester complet (Sharpe, drawdown, win rate) avec validation walk-forward et Monte-Carlo, intégrations Interactive Brokers/Alpaca, dashboard WebSocket, CI GitHub Actions
 ▸ TradingClaude — plateforme d'analyse financière IA, ~44 500 lignes : FastAPI (74 endpoints), PostgreSQL, Redis/Celery, RAG Qdrant, React 18/TypeScript strict — ~2 250 tests pytest, 531 tests Vitest, e2e Playwright, CI à 6 jobs, Docker Compose (5 services)
@@ -51,6 +51,7 @@ Formation des employés de production dans une usine en horaire rotatif.
 - Conçois et anime des formations techniques : vulgarisation de procédés complexes pour des publics variés
 - Documente les contenus de formation et assure le suivi des acquis
 - Fais le lien entre les nouvelles recrues, les exigences de production et les standards de qualité
+- Utilise SAP (ERP) quotidiennement : transactions de production en contexte manufacturier
 
 Compétences transférables vers le logiciel : communication, vulgarisation technique, documentation, pédagogie.
 ```
@@ -123,9 +124,10 @@ Ordre suggéré :
 11. HTML5
 12. C#
 13. PHP
-14. Formation d'employés
-15. Coordination d'équipes
-16. Contrôle qualité
+14. SAP (utilisateur)
+15. Formation d'employés
+16. Coordination d'équipes
+17. Contrôle qualité
 
 ## 7. Divers
 
