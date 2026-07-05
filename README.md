@@ -40,6 +40,7 @@
 |---|---|
 | [`cv/cv-indeed.md`](cv/cv-indeed.md) | Contenu champ par champ pour https://profile.indeed.com |
 | [`cv/profil-linkedin.md`](cv/profil-linkedin.md) | Contenu section par section pour LinkedIn + réglages de visibilité |
+| [`cv/projets-portfolio.md`](cv/projets-portfolio.md) | Référence factuelle détaillée des projets (compétences, notions, chiffres mesurés) — pour aider à rédiger candidatures et préparer entrevues |
 | [`strategie/plan-emploi.md`](strategie/plan-emploi.md) | Marché local, positionnement, formation, plan 30-60-90 jours |
 | [`candidatures/suivi.md`](candidatures/suivi.md) | Tableau de suivi des candidatures (pré-rempli) |
 | [`candidatures/lettres/infinition.md`](candidatures/lettres/infinition.md) | Lettre de présentation — Infinition (Trois-Rivières) |
